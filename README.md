@@ -23,4 +23,4 @@ RASPBERRY PI:
 - /home/pi/tg/arduino.py
 - /home/pi/pchart/grafico.sh
 - /etc/crontab
-- grafico.php
+- /grafico.php
