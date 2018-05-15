@@ -1,4 +1,4 @@
-# Smart_Home
+# Smart_Home - 2012-09
 
 ARDUINO:
  - arduino.ino
